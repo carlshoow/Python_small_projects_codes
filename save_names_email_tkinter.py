@@ -1,4 +1,3 @@
-import tkinter.simpledialog
 from tkinter import *
 
 root = Tk()
